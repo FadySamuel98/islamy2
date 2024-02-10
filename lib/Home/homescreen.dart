@@ -42,7 +42,7 @@ class _HomeScreenState extends State<HomeScreen> {
               },
               items: [
               BottomNavigationBarItem(icon: ImageIcon(AssetImage('assets/images/quran_image.png')), label: 'Quran'),
-              BottomNavigationBarItem(icon: ImageIcon(AssetImage('assets/images/moshaf_blue.png')), label: 'moshaf'),
+              BottomNavigationBarItem(icon: ImageIcon(AssetImage('assets/images/moshaf_blue.png')), label: 'Hadeth'),
               BottomNavigationBarItem(icon: ImageIcon(AssetImage('assets/images/sebha_icon.png')), label: 'Sebha'),
               BottomNavigationBarItem(icon: ImageIcon(AssetImage('assets/images/radio.png')), label: 'Radio'),
 

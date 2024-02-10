@@ -23,6 +23,10 @@ class MyTheme {
         fontSize: 30 ,
         color: blackcolor
 
+      ),
+      titleMedium: TextStyle(fontWeight: FontWeight.w600,
+        fontSize: 30,
+        color: blackcolor
       )
     )
 
